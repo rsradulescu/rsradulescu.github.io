@@ -76,8 +76,10 @@ Participation in computer congress [CONAIISI 🔗](http://conaiisi2020.frsfco.ut
 
 ---
 ### Certifications
-#### [AWS Cloud Practitioner  (04/2021 - 07/2026)🔗](https://www.credly.com/badges/3790a21a-0f34-4aad-9a27-852a5e4dcded)
+
+#### [AWS Certified Developer – Associate (04/2024 - 04/2027) 🔗 ](https://www.credly.com/badges/5bcd6939-82f9-4872-9f8f-3cb0946dedb0)
 #### [AWS Solutions Architect – Associate (07/2023 - 07/2026) 🔗 ](https://www.credly.com/badges/33088a77-602c-47ad-b9a6-cca637c743c0)
+#### [AWS Cloud Practitioner  (04/2021 - 07/2026)🔗](https://www.credly.com/badges/3790a21a-0f34-4aad-9a27-852a5e4dcded)
 
 ---
 ### Courses
